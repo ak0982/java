@@ -1,0 +1,4 @@
+username-->amar  password-->kumar  name-->amar kumar  roll-->1801016  institute-->IIIT G
+username-->ankit  password-->kumar s  name-->ankit kumar s  roll-->1801017  institute-->IIIT G
+username-->adarsh  password-->raj  name-->adarsh raj  roll-->1801018  institute-->IIIT G
+username-->aman  password-->chini  name-->aman chini  roll-->1801019  institute-->IIIT G
